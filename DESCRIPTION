@@ -1,0 +1,12 @@
+Package: ARLMetTools
+Type: Package
+Title: Provide Quick-Look Tools to Explore WRF Data Post-Processed through NCARs MET Utility
+Version: 0.1.0
+Author: person("Smith", "Jeffrey", email = "jeffrey.a.smith1.civ@mail.mil", 
+    role = c("aut", "cre"))
+Maintainer: Jeffrey A. Smith <jeffrey.a.smith1.civ@mail.mil>
+Description: Provide quick-look exploratory data analysis tools to examine WRF data post-
+    processed by the NCAR MET utility (available from:http://www.dtcenter.org/met/users/).
+License: LICENSE
+Encoding: UTF-8
+LazyData: true

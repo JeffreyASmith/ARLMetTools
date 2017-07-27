@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^hello$
+^hello\.R$
+^hello\.Rd$
+^support$
